@@ -1,0 +1,9 @@
+venv
+**/.pycache
+**/__pycache__
+**/.terraform*
+*.tfstate*
+ingestion-lambda.zip
+process-lambda.zip
+load-lambda.zip
+python
